@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "https://example.com/docs/"
+baseurl = "https://melindahiggins2001.github.io/blogdowntest/"
 languageCode = "en-us"
 title = "Retroful Hugo"
 theme = "retrofulhugo"

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Retroful Hugo</title>
-    <link>/docs/categories/</link>
+    <link>/blogdowntest/categories/</link>
     <description>Recent content in Categories on Retroful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>your email (your name)</managingEditor>
     <webMaster>your email (your name)</webMaster>
     
-	<atom:link href="/docs/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blogdowntest/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/docs/categories/development/</link>
+      <link>/blogdowntest/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/docs/categories/development/</guid>
+      <guid>/blogdowntest/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>/docs/categories/golang/</link>
+      <link>/blogdowntest/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/docs/categories/golang/</guid>
+      <guid>/blogdowntest/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/docs/categories/r/</link>
+      <link>/blogdowntest/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>your email (your name)</author>
-      <guid>/docs/categories/r/</guid>
+      <guid>/blogdowntest/categories/r/</guid>
       <description></description>
     </item>
     
